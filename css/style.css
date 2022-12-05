@@ -87,3 +87,49 @@ header{
     justify-content:center;
     flex-direction:row;
 }
+
+#big-section{
+    background-color: rgb(201, 201, 201) ;
+    min-height:1000px;
+    width:auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+#green-conteiner{
+    background-color: rgb(1, 163, 1);
+    width:1250px;
+    height: 900px;
+}
+
+#black-section{
+    min-height:450px;
+    background-color: black;
+    width: auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:row;
+}
+
+#coral-block{
+    width:500px;
+    background-color:lightcoral;
+    height:400px;
+    border:1px black dashed;
+}
+
+#green-block{
+    width:750px;
+    background-color: rgb(144, 255, 144);
+    height: 400px;
+    display: flex;
+
+}
+
+.remaining{
+    height:auto;
+    width:25%;
+    border:1px white dashed
+}
