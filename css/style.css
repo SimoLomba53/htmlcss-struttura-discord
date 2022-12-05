@@ -161,7 +161,8 @@ footer{
     background-color:black;
     height:100px;
     width: auto;
-    margin-top: 1px;
+    border-top: 2px grey solid;
+    border-bottom: 2px grey solid;
     display: flex;
     justify-content:center;
     align-items:center
