@@ -37,3 +37,53 @@ header{
     border: 1px black dashed;
     height:30px;
 }
+
+#first-sec{
+    min-height:400px;
+    background-color: blue;
+    width:auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+#quadrato-rosa{
+    height:350px;
+    width:500px;
+    border: 1px black dashed;
+    background-color:pink;
+}
+
+.central-section{
+    min-height:450px;
+    background-color: white;
+    width: auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:row;
+}
+
+.pink-block{
+    background-color: rgb(253, 212, 219);
+    width:400px;
+    height: 350px;
+    border: 1px black dashed;
+}
+
+.blue-block{
+    background-color: rgb(94, 94, 252);
+    width:850px;
+    height: 350px;
+    border: 1px black dashed;
+}
+
+.central-section2{
+    background-color: rgb(201, 201, 201);
+    min-height:450px;
+    width: auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:row;
+}
